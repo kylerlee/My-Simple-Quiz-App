@@ -1,0 +1,6 @@
+[submodule "Simple-Quiz-RESTful-API"]
+	path = Simple-Quiz-RESTful-API
+	url = https://github.com/kylerlee/Simple-Quiz-RESTful-API.git
+[submodule "Simple-Quiz-Frontend-App"]
+	path = Simple-Quiz-Frontend-App
+	url = https://github.com/kylerlee/Simple-Quiz-Frontend-App.git
